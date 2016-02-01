@@ -7,10 +7,7 @@ export type IncomingMessage = {
   setTimeout: (msecs: number, callback: Function) => void;
   statusCode: number;
   url: string;
-  href: any,
-  pathname: any,
-  search: any,
-  query: any  
+  body: any
 }
 
 export type ServerResponse = {

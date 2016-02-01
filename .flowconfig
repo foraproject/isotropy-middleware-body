@@ -1,7 +1,6 @@
 [include]
 
 [libs]
-interfaces/
 
 [options]
 
@@ -12,4 +11,3 @@ interfaces/
 .*/node_modules/babylon/.*
 .*/node_modules/fbjs/.*
 .*/node_modules/koa/.*
-.*/node_modules/co-body/.*
